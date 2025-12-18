@@ -196,7 +196,7 @@ Track my ride in real-time.
             top: 0,
             left: 0,
             right: 0,
-            height: 300, // adjust height as needed
+            height: 600, // adjust height as needed
             child: ClipRRect(
               child: Image.asset(
                 'assets/images/googlemap.jpeg', // <-- your map image path
